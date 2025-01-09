@@ -21,7 +21,7 @@ public class Prime {
     public static void main(String args[])
     {
         if (isPrime(11))
-            System.out.println(" Prime");
+            System.out.println("Prime");
         else
             System.out.println(" Not Prime");
         if (isPrime(15))
