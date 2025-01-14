@@ -39,7 +39,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Digit_Sum">
+  <component name="RunManager" selected="Application.TripletSum">
     <configuration name="Digit_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PS_Sprint_1.Digit_Sum" />
       <module name="Test_Java" />
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rec_Alpha_with_INC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Rec_Alpha_with_INC" />
+    <configuration name="Second_Largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PS_Sprint_1.Second_Largest" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="PS_Sprint_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,26 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rec_Alpha_with_same" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Rec_Alpha_with_same" />
+    <configuration name="TripletSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TripletSum" />
       <module name="Test_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TripletSum" />
+        <item itemvalue="Application.Second_Largest" />
         <item itemvalue="Application.Digit_Sum" />
         <item itemvalue="Application.Prime" />
         <item itemvalue="Application.Even_Odd" />
-        <item itemvalue="Application.Rec_Alpha_with_INC" />
-        <item itemvalue="Application.Rec_Alpha_with_same" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +127,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PS_Sprint_1/Second_Largest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
