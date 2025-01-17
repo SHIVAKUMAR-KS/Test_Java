@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b17deaaa-2f19-469c-91cf-eeab1740ffc4" name="Changes" comment="" />
+    <list default="true" id="b17deaaa-2f19-469c-91cf-eeab1740ffc4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Blind_75/Arrays/Arrays_Contains_Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blind_75/Arrays/Arrays_Contains_Duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Blind_75/Arrays/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blind_75/Arrays/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic_Programming/O_1_Knapsack_probelm/Partition_Equal_Subset_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dynamic_Programming/O_1_Knapsack_probelm/Partition_Equal_Subset_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic_Programming/O_1_Knapsack_probelm/Subset_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dynamic_Programming/O_1_Knapsack_probelm/Subset_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic_Programming/O_1_Knapsack_probelm/o_1_Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dynamic_Programming/O_1_Knapsack_probelm/o_1_Knapsack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,15 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Test_Java",
+    "onboarding.tips.debug.path": "D:/Test_Java/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.TripletSum">
+}]]></component>
+  <component name="RunManager" selected="Application.Reverse_String">
     <configuration name="Digit_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PS_Sprint_1.Digit_Sum" />
       <module name="Test_Java" />
@@ -51,12 +59,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PS_Sprint_1.Even_Odd" />
+    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse_String" />
+      <module name="Test_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Blind_75.Arrays.TwoSum" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PS_Sprint_1.*" />
+          <option name="PATTERN" value="Blind_75.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,46 +79,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PS_Sprint_1.Prime" />
+    <configuration name="matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrix" />
       <module name="Test_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PS_Sprint_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Second_Largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PS_Sprint_1.Second_Largest" />
+    <configuration name="rough.matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rough.matrix" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PS_Sprint_1.*" />
+          <option name="PATTERN" value="rough.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TripletSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TripletSum" />
-      <module name="Test_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TripletSum" />
-        <item itemvalue="Application.Second_Largest" />
+        <item itemvalue="Application.Reverse_String" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Digit_Sum" />
-        <item itemvalue="Application.Prime" />
-        <item itemvalue="Application.Even_Odd" />
+        <item itemvalue="Application.rough.matrix" />
+        <item itemvalue="Application.matrix" />
       </list>
     </recent_temporary>
   </component>

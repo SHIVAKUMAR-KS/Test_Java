@@ -1,5 +1,5 @@
 package Dynamic_Programming.O_1_Knapsack_probelm;
-
+/*
 public class Subset_Sum {
     static Boolean isSubsetSum(int arr[], int target) {
         // code here
@@ -17,4 +17,12 @@ public class Subset_Sum {
 
         return dp[target];
     }
+
+
+
+
 }
+
+
+ */
+

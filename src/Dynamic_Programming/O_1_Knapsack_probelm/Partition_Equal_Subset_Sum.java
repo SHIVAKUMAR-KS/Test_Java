@@ -1,5 +1,5 @@
 package Dynamic_Programming.O_1_Knapsack_probelm;
-
+/*
 public class Partition_Equal_Subset_Sum {
     public boolean canPartition(int[] nums) {
 
@@ -31,5 +31,10 @@ public class Partition_Equal_Subset_Sum {
         return dp[target];  // Return whether target sum is achievable
     }
 
+
+
 }
+
+
+ */
 

@@ -1,5 +1,6 @@
 package Dynamic_Programming.O_1_Knapsack_probelm;
 
+/*
 public class o_1_Knapsack {
     class Solution {
         // Function to return max value that can be put in knapsack of capacity.
@@ -45,4 +46,10 @@ public class o_1_Knapsack {
         }
     }
 
+
+
+
 }
+
+
+ */
