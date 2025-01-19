@@ -40,7 +40,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.reverse_arr_in_grp">
+  <component name="RunManager" selected="Application.java_Strean">
     <configuration name="Digit_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PS_Sprint_1.Digit_Sum" />
       <module name="Test_Java" />
@@ -74,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java_Strean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Strean" />
+      <module name="Test_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="reverse_arr_in_grp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_GFG.reverse_arr_in_grp" />
       <module name="Test_Java" />
@@ -87,26 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rough.matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rough.matrix" />
-      <module name="Test_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rough.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java_Strean" />
         <item itemvalue="Application.reverse_arr_in_grp" />
         <item itemvalue="Application.Reverse_String" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Digit_Sum" />
-        <item itemvalue="Application.rough.matrix" />
       </list>
     </recent_temporary>
   </component>
