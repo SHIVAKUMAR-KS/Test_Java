@@ -40,23 +40,23 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.count_Freq">
-    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse_String" />
+  <component name="RunManager" selected="Application.Message_Printer_1">
+    <configuration name="Message_Printer_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_Practise.Message_Printer_1" />
       <module name="Test_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oops_Practise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Blind_75.Arrays.TwoSum" />
+    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse_String" />
       <module name="Test_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Blind_75.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Message_Printer_1" />
         <item itemvalue="Application.count_Freq" />
         <item itemvalue="Application.java_Strean" />
         <item itemvalue="Application.reverse_arr_in_grp" />
         <item itemvalue="Application.Reverse_String" />
-        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
