@@ -12,7 +12,8 @@ public class Message_Printer_1 {
 
 
     public static void main(String[] args) {
-        MessagePrinter m = new MessagePrinter();
-        m.printMessage("Geek");
+        Message_Printer_1 m=new Message_Printer_1();
+        m.printMessage("Shiva");
+        m.printMessage("Babe");
     }
 }
