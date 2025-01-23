@@ -40,7 +40,14 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Message_Printer_1">
+  <component name="RunManager" selected="Application.List">
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List" />
+      <module name="Test_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Message_Printer_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oops_Practise.Message_Printer_1" />
       <module name="Test_Java" />
@@ -50,13 +57,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse_String" />
-      <module name="Test_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.List" />
         <item itemvalue="Application.Message_Printer_1" />
         <item itemvalue="Application.count_Freq" />
         <item itemvalue="Application.java_Strean" />
         <item itemvalue="Application.reverse_arr_in_grp" />
-        <item itemvalue="Application.Reverse_String" />
       </list>
     </recent_temporary>
   </component>
