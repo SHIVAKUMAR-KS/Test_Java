@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b17deaaa-2f19-469c-91cf-eeab1740ffc4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b17deaaa-2f19-469c-91cf-eeab1740ffc4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +40,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.one_eighty_degree_Anticlockwise">
+  <component name="RunManager" selected="Application.Trick_for_AntiClockwise">
     <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="List" />
       <module name="Test_Java" />
@@ -76,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_Freq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PS_Sprint_1.count_Freq" />
+    <configuration name="Trick_for_AntiClockwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrix_Problem_Cp.Trick_for_AntiClockwise" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PS_Sprint_1.*" />
+          <option name="PATTERN" value="Matrix_Problem_Cp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Trick_for_AntiClockwise" />
         <item itemvalue="Application.one_eighty_degree_Anticlockwise" />
         <item itemvalue="Application.Ninty_Degre_AntiClockwise" />
         <item itemvalue="Application.List" />
         <item itemvalue="Application.Message_Printer_1" />
-        <item itemvalue="Application.count_Freq" />
       </list>
     </recent_temporary>
   </component>
