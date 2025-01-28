@@ -6,10 +6,11 @@ public class test {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
+
         if (n % 2 == 0) {
-            System.out.println("Even");
+            System.out.println("Even ");
         } else {
-            System.out.println("odd");
+            System.out.println("odds");//
         }
     }
 }
