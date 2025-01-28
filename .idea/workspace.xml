@@ -42,7 +42,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.List">
     <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="List" />
       <module name="Test_Java" />
@@ -89,16 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Test_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
         <item itemvalue="Application.Trick_for_AntiClockwise" />
         <item itemvalue="Application.one_eighty_degree_Anticlockwise" />
         <item itemvalue="Application.Ninty_Degre_AntiClockwise" />
