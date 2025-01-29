@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b17deaaa-2f19-469c-91cf-eeab1740ffc4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/Right_Triangle/up.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/Right_Triangle/up.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern/Right_Triangle/left.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/Right_Triangle/left.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.up">
+  <component name="RunManager" selected="Application.left">
     <configuration name="Left_right_traingle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern.Right_Triangle.Left_right_traingle" />
       <module name="Test_Java" />
@@ -111,10 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.left" />
         <item itemvalue="Application.up" />
         <item itemvalue="Application.Right_Angled_traiangle" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.left" />
         <item itemvalue="Application.Left_right_traingle" />
       </list>
     </recent_temporary>
@@ -150,7 +150,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Pattern/Right_Triangle/up.java</url>
-          <line>27</line>
+          <line>21</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
