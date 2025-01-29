@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b17deaaa-2f19-469c-91cf-eeab1740ffc4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-    </list>
+    <list default="true" id="b17deaaa-2f19-469c-91cf-eeab1740ffc4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,20 +40,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List" />
-      <module name="Test_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ninty_Degre_AntiClockwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrix_Problem_Cp.Ninty_Degre_AntiClockwise" />
+  <component name="RunManager" selected="Application.Rec_Star">
+    <configuration name="Rec_Alpha_with_INC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern.Rec_Alpha_with_INC" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Matrix_Problem_Cp.*" />
+          <option name="PATTERN" value="Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trick_for_AntiClockwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrix_Problem_Cp.Trick_for_AntiClockwise" />
+    <configuration name="Rec_Alpha_with_same" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern.Rec_Alpha_with_same" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Matrix_Problem_Cp.*" />
+          <option name="PATTERN" value="Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +67,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one_eighty_degree_Anticlockwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrix_Problem_Cp.one_eighty_degree_Anticlockwise" />
+    <configuration name="Rec_Num_Inc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern.Rec_Num_Inc" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Matrix_Problem_Cp.*" />
+          <option name="PATTERN" value="Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rec_Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern.Rec_Star" />
+      <module name="Test_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rec_Star" />
+        <item itemvalue="Application.Rec_Num_Inc" />
+        <item itemvalue="Application.Rec_Alpha_with_same" />
+        <item itemvalue="Application.Rec_Alpha_with_INC" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Trick_for_AntiClockwise" />
-        <item itemvalue="Application.one_eighty_degree_Anticlockwise" />
-        <item itemvalue="Application.Ninty_Degre_AntiClockwise" />
-        <item itemvalue="Application.List" />
       </list>
     </recent_temporary>
   </component>

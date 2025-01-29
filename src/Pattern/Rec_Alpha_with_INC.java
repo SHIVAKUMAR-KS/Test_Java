@@ -14,3 +14,10 @@ public class Rec_Alpha_with_INC {
         }
     }
 }
+/*
+4
+A B C D
+A B C D
+A B C D
+A B C D
+ */

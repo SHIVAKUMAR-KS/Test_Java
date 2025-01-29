@@ -13,4 +13,12 @@ public class Rec_Num_Inc {
             System.out.println();
         }
     }
+
 }
+/*
+4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+ */
