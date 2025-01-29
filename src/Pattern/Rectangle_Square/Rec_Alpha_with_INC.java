@@ -1,4 +1,4 @@
-package Pattern;
+package Pattern.Rectangle_Square;
 
 import java.util.Scanner;
 

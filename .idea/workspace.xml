@@ -46,7 +46,7 @@
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="Pattern.Rectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,7 +59,7 @@
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="Pattern.Rectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,7 +72,7 @@
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="Pattern.Rectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +81,11 @@
       </method>
     </configuration>
     <configuration name="Rec_Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Rec_Star" />
+      <option name="MAIN_CLASS_NAME" value="Pattern.Rectangle.Rec_Star" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="Pattern.Rectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
