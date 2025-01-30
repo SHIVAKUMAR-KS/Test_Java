@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b17deaaa-2f19-469c-91cf-eeab1740ffc4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MapOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapOperation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,14 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.MapOperation">
+    <configuration name="MapOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapOperation" />
+      <module name="Test_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pattern.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern.main" />
       <module name="Test_Java" />
@@ -95,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="up" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Right_Triangle.up" />
-      <module name="Test_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pattern.Right_Triangle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapOperation" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Pattern.main" />
         <item itemvalue="Application.Right_Angled_traiangle" />
         <item itemvalue="Application.left" />
-        <item itemvalue="Application.up" />
       </list>
     </recent_temporary>
   </component>
