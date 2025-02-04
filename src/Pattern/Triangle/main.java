@@ -7,7 +7,7 @@ public class main {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
 
-        for (int i = 1; i <= n; i++) {
+        for (int i = 0; i <=n; i++) {
             // Print dashes
             for (int j = 1; j <= n - i; j++) {
                 System.out.print(" ");//for traingle  only one space
