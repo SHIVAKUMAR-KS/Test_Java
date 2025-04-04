@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b17deaaa-2f19-469c-91cf-eeab1740ffc4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/Triangle/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/Triangle/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +42,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.main1">
-    <configuration name="MapOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapOperation" />
-      <module name="Test_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Codeforces.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Test" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Triangle.main" />
+    <configuration name="Codeforces.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.main" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.Triangle.*" />
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Triangle.main1" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.Main" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.Triangle.*" />
+          <option name="PATTERN" value="HackerEarth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +82,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.Test" />
       <module name="Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="HackerEarth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.three" />
+      <module name="Test_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HackerEarth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main1" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.MapOperation" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Pattern.main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.three" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Codeforces.Test" />
+        <item itemvalue="Application.Codeforces.main" />
       </list>
     </recent_temporary>
   </component>
