@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b17deaaa-2f19-469c-91cf-eeab1740ffc4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Juspay/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Juspay/one.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DESI_QNA/Hashing/Amazon_Sesssion/amazonSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DESI_QNA/Hashing/Amazon_Sesssion/amazonSession.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +43,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Test_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.amazonSession">
-    <configuration name="Juspay.delivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Juspay.delivery" />
-      <module name="Test_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Juspay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.one">
     <configuration name="amazonSession" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DESI_QNA.Hashing.Amazon_Sesssion.amazonSession" />
       <module name="Test_Java" />
@@ -83,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="delivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="delivery" />
-      <module name="Test_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="kingdom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Juspay.kingdom" />
       <module name="Test_Java" />
@@ -103,13 +83,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="minOprToDestroyArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DESI_QNA.Hashing.Amazon_Sesssion.minOprToDestroyArr" />
+      <module name="Test_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DESI_QNA.Hashing.Amazon_Sesssion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DESI_QNA.Hashing.Hackerrank.one" />
+      <module name="Test_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DESI_QNA.Hashing.Hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.one" />
+        <item itemvalue="Application.minOprToDestroyArr" />
         <item itemvalue="Application.amazonSession" />
         <item itemvalue="Application.city" />
         <item itemvalue="Application.kingdom" />
-        <item itemvalue="Application.Juspay.delivery" />
-        <item itemvalue="Application.delivery" />
       </list>
     </recent_temporary>
   </component>

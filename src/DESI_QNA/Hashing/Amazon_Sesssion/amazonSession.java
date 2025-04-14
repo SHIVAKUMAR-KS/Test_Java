@@ -3,8 +3,6 @@ package DESI_QNA.Hashing.Amazon_Sesssion;
 import  java.util.*;
 public class amazonSession {
 
-
-
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
