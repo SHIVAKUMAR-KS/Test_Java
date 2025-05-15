@@ -23,8 +23,6 @@ public class three {
         Arrays.sort(A); // Step 1: Sort the array
         int maxTeamSize = 0;
         int left = 0;
-
-        // Step 2: Use sliding window
         for (int right = 0; right < n; right++) {
             while (A[right] - A[left] > 5) {
                 left++;
