@@ -20,7 +20,7 @@ public class three {
     }
 
     static int findNumberOfEmployees(int[] A, int n) {
-        Arrays.sort(A); // Step 1: Sort the array
+        Arrays.sort(A);
         int maxTeamSize = 0;
         int left = 0;
         for (int right = 0; right < n; right++) {
